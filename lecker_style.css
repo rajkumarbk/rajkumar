@@ -96,12 +96,12 @@ iframe {
 
 /*France Design*/
 .lec_france {
-	background-image: url("../images/main_back.jpg");
+	background-image: url("main_back.jpg");
 	background-size: 1000px 584px;
 	color: rgb(142, 130, 121);	
 }
 .lec_dark {
-	background-image: url("../images/main_back_bl.png");
+	background-image: url("main_back_bl.png");
 	background-size: 1000px 584px;
 	background-color: #292929;
 }
@@ -1085,7 +1085,7 @@ label.error{
 /*03.3 Section*/
 .lec_section_borders:before {
 	position: absolute;
-	background-image: url(../images/sea/white_rough_edge_bottom.png);
+	background-image: url(white_rough_edge_bottom.png);
 	width: 100%;
 	height: 30px;
 	-webkit-background-size: cover;
@@ -1097,7 +1097,7 @@ label.error{
 }
 .lec_section_borders:after {
 	position: absolute;
-	background-image: url(../images/sea/white_rough_edge_top.png);
+	background-image: url(white_rough_edge_top.png);
 	width: 100%;
 	height: 33px;
 	-webkit-background-size: cover;
@@ -1110,10 +1110,10 @@ label.error{
 	background-repeat: none;
 }
 .lec_section_borders.lec_wht_txt:before {
-	background-image: url(../images/sea/white_rough_edge_bottom_bl.png);
+	background-image: url(white_rough_edge_bottom_bl.png);
 }
 .lec_section_borders.lec_wht_txt:after {
-	background-image: url(../images/sea/white_rough_edge_top_bl.png);
+	background-image: url(white_rough_edge_top_bl.png);
 }
 .lec_section {
 	overflow: hidden;
@@ -1122,7 +1122,7 @@ label.error{
 .lec_section_borders_lines .container:before {
 	display: block;
 	content: '';
-	background: url(../images/smoke/lines.png);
+	background: url(lines.png);
 	width: 232px;
 	height: 68px;
 	-webkit-background-size: cover;
@@ -1135,7 +1135,7 @@ label.error{
 .lec_section_borders_lines .container:after {
 	display: block;
 	content: '';
-	background: url(../images/smoke/lines.png);
+	background: url(lines.png);
 	width: 232px;
 	height: 68px;
 	-webkit-background-size: cover;
@@ -2361,7 +2361,7 @@ header {
 			height: 50px;
 			display: inline-block;
 			position: relative;
-			background: url(../images/badge_mini.png);
+			background: url(badge_mini.png);
 			-webkit-background-size: cover;
 			background-size: cover;
 			-webkit-filter: drop-shadow(0);
@@ -2560,7 +2560,7 @@ header {
 		position: absolute;
 		display: block;
 		content: '';
-		background: url(../images/main_back_bl.jpg);
+		background: url(main_back_bl.jpg);
 		-webkit-background-size: cover;
 		background-size: cover;
 		top: -50px;
@@ -2569,7 +2569,7 @@ header {
 		right: -36px;
 	}
 	.lec_virtual_play_black:before {
-		background: url(../images/main_back_bl.jpg);
+		background: url(main_back_bl.jpg);
 		-webkit-background-size: cover;
 		background-size: cover;
 	}
@@ -3018,7 +3018,7 @@ header {
 	.lec_lm_type_i_item_desc_gold_foil {
 		content: '';
 		display: block;
-		background-image: url(../images/gold_foil_dark.jpg);
+		background-image: url(gold_foil_dark.jpg);
 		top: 15px;
 		bottom: 15px;
 		left: 15px;
@@ -3037,7 +3037,7 @@ header {
 	.lec_lm_type_i_item_desc_gold_foil:after {
 		content: '';
 		display: block;
-		background: url(../images/black_paper.jpg);
+		background: url(black_paper.jpg);
 		top: 5px;
 		bottom: 5px;
 		left: 5px;
@@ -3050,7 +3050,7 @@ header {
 		.lec_lm_type_i_item_desc_gold_foil_light {
 			content: '';
 			display: block;
-			background-image: url(../images/gold_foil_dark.jpg);
+			background-image: url(gold_foil_dark.jpg);
 			top: 7px;
 			bottom: 7px;
 			left: 7px;
@@ -3069,7 +3069,7 @@ header {
 		.lec_lm_type_i_item_desc_gold_foil_light:after {
 			content: '';
 			display: block;
-			background: url(../images/black_paper.jpg);
+			background: url(black_paper.jpg);
 			top: 2px;
 			bottom: 2px;
 			left: 2px;
@@ -3428,7 +3428,7 @@ header {
 .lec_page_fire .lec_wht_txt.lec_gold span,
 .retina .lec_page_fire .lec_wht_txt .lec_gold span,
 .retina .lec_page_fire .lec_wht_txt.lec_gold span {
-	background-image: url(../images/selima_fire.png);
+	background-image: url(selima_fire.png);
 }
 .lec_page_fire  .lec_gold_subtitle:after,
 .lec_page_fire  .lec_gold_subtitle:before {
@@ -3438,10 +3438,10 @@ header {
 .lec_page_fire .owl-next,
 .lec_page_fire .lec_top b,
 .lec_page_fire .lec_scroll_down b{
-	background-image: url(../images/badge_mini_fire.png);
+	background-image: url(badge_mini_fire.png);
 }
 .lec_page_fire .lec_shop_item_title b {
-	background-image: url(../images/badge_mini_fire_dark.png);
+	background-image: url(badge_mini_fire_dark.png);
 }
 .lec_page_fire .lec_shop_item_title b {
 
@@ -3468,12 +3468,12 @@ header {
 	background: #ff4f05;
 }
 .lec_page_fire .jqueryFireFly {
-	background-image: url(../images/fire.jpg)!important;
+	background-image: url(fire.jpg)!important;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 .lec_page_fire .owl-dot span {
-	background-image: url(../images/badge_mini_fire.png);
+	background-image: url(badge_mini_fire.png);
 }
 	.lec_page_fire .owl-dot.active span {
 		-webkit-filter: drop-shadow(0 0 5px rgba(252, 123, 33, 1));
@@ -3528,10 +3528,10 @@ header {
 .lec_page_rust .owl-next,
 .lec_page_rust .lec_top b,
 .lec_page_rust .lec_scroll_down b{
-	background-image: url(../images/badge_mini_rust.png);
+	background-image: url(badge_mini_rust.png);
 }
 .lec_page_rust .owl-dot span {
-	background-image: url(../images/badge_mini_rust.png);
+	background-image: url(badge_mini_rust.png);
 }
 @media (max-width:1100px){
 	.lec_section_borders .container {
@@ -3765,10 +3765,10 @@ header {
 .lec_page_neon .owl-next,
 .lec_page_neon .lec_top b,
 .lec_page_neon .lec_scroll_down b{
-	background-image: url(../images/badge_mini_neon.png);
+	background-image: url(badge_mini_neon.png);
 }
 .lec_page_neon .lec_shop_item_title b {
-	background-image: url(../images/badge_mini_neon_dark.png);
+	background-image: url(badge_mini_neon_dark.png);
 }
 .lec_page_neon .owl-prev:hover,
 .lec_page_neon .owl-next:hover,
@@ -3792,12 +3792,12 @@ header {
 	background: #ed1cdc;
 }
 .lec_page_neon .jqueryFireFly {
-	background-image: url(../images/fire.jpg)!important;
+	background-image: url(fire.jpg)!important;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 .lec_page_neon .owl-dot span {
-	background-image: url(../images/badge_mini_neon.png);
+	background-image: url(badge_mini_neon.png);
 }
 	.lec_page_neon .owl-dot.active span {
 		-webkit-filter: drop-shadow(0 0 5px rgba(237, 28, 220, 1));
@@ -3812,7 +3812,7 @@ header {
 }
 .lec_page_red .lec_gold span,
 .retina .lec_page_red .lec_gold span {
-	background-image: url(../images/selima_red_wh.png);
+	background-image: url(selima_red_wh.png);
 	-webkit-background-size: 2160px 163px;
 	background-size: 2160px 163px;
 }
@@ -3820,7 +3820,7 @@ header {
 .lec_page_red .lec_wht_txt.lec_gold span,
 .retina .lec_page_red .lec_wht_txt .lec_gold span,
 .retina .lec_page_red .lec_wht_txt.lec_gold span {
-	background-image: url(../images/selima_red.png);
+	background-image: url(selima_red.png);
 }
 .lec_page_red  .lec_gold_subtitle:after,
 .lec_page_red  .lec_gold_subtitle:before {
@@ -3830,10 +3830,10 @@ header {
 .lec_page_red .owl-next,
 .lec_page_red .lec_top b,
 .lec_page_red .lec_scroll_down b {
-	background-image: url(../images/badge_mini_red.png);
+	background-image: url(badge_mini_red.png);
 }
 .lec_page_red .lec_shop_item_title b {
-	background-image: url(../images/badge_red.png);
+	background-image: url(badge_red.png);
 }
 .lec_page_red .lec_shop_item_title b {
 
@@ -3863,7 +3863,7 @@ header {
 	background: red!important;
 }
 .lec_page_red .owl-dot span {
-	background-image: url(../images/badge_mini_red.png);
+	background-image: url(badge_mini_red.png);
 }
 	.lec_page_red .owl-dot.active span {
 		-webkit-filter: drop-shadow(0 0 5px rgba(229, 6, 6, 1));
@@ -3874,7 +3874,7 @@ header {
 /*IceCream Color*/
 .lec_page_ice .lec_gold span,
 .retina .lec_page_ice .lec_gold span {
-	background-image: url(../images/selima_ice_wh.png);
+	background-image: url(selima_ice_wh.png);
 	-webkit-background-size: 2160px 163px;
 	background-size: 2160px 163px;
 }
@@ -3882,7 +3882,7 @@ header {
 .lec_page_ice .lec_wht_txt.lec_gold span,
 .retina .lec_page_ice .lec_wht_txt .lec_gold span,
 .retina .lec_page_ice .lec_wht_txt.lec_gold span {
-	background-image: url(../images/selima_ice.png);
+	background-image: url(selima_ice.png);
 }
 .lec_page_ice  .lec_gold_subtitle:after,
 .lec_page_ice  .lec_gold_subtitle:before {
@@ -3893,7 +3893,7 @@ header {
 .lec_page_ice .lec_top b,
 .lec_page_ice .lec_scroll_down b,
 .lec_page_ice .lec_shop_item_title b {
-	background-image: url(../images/badge_mini_ice.png);
+	background-image: url(badge_mini_ice.png);
 }
 .lec_page_ice .lec_shop_item_title b {
 	
@@ -3925,7 +3925,7 @@ header {
 	background-size: cover;
 }
 .lec_page_ice .owl-dot span {
-	background-image: url(../images/badge_mini_ice.png);
+	background-image: url(badge_mini_ice.png);
 }
 	.lec_page_ice .owl-dot.active span {
 		-webkit-filter: drop-shadow(0 0 5px rgba(176, 47, 191, 1));
@@ -3936,24 +3936,24 @@ header {
 .lec_gold span {
 	display: inline-block;
 	text-indent: -10000px;
-	background-image: url(../images/selima_gold_mini.png);
+	background-image: url(selima_gold_mini.png);
 	margin-left: -7px;	
 }
 .retina .lec_gold span {
-	background-image: url(../images/selima_gold_wh.png);
+	background-image: url(selima_gold_wh.png);
 	-webkit-background-size: 2160px 163px;
 	background-size: 2160px 163px;
 }
 .retina .lec_wht_txt .lec_gold span,
 .retina .lec_wht_txt.lec_gold span {
-	background-image: url(../images/selima_gold.png);
+	background-image: url(selima_gold.png);
 } 
 
 .lec_gold_big span {
-	background-image: url(../images/selima_gold.png);
+	background-image: url(selima_gold.png);
 }
 .retina .lec_gold_big span {
-	background-image: url(../images/selima_gold_retina.png);
+	background-image: url(selima_gold_retina.png);
 	-webkit-background-size: 3794px 326px;
 	background-size: 3794px 326px;
 }
@@ -3964,7 +3964,7 @@ header {
 	display: block;
 	position: absolute;
 	content: '';
-	background-image: url(../images/gold_foil2.png);
+	background-image: url(gold_foil2.png);
 	-webkit-background-size: 40px 64px;
 	background-size: 40px 64px;
 	width: 15px;
@@ -3983,7 +3983,7 @@ header {
 	display: block;
 	position: absolute;
 	content: '';
-	background-image: url(../images/gold_foil2.png);
+	background-image: url(gold_foil2.png);
 	-webkit-background-size: 40px 64px;
 	background-size: 40px 64px;
 	width: 15px;
@@ -3994,7 +3994,7 @@ header {
 	display: block;
 	position: absolute;
 	content: '';
-	background-image: url(../images/gold_foil2.png);
+	background-image: url(gold_foil2.png);
 	-webkit-background-size: 40px 64px;
 	background-size: 40px 64px;
 	width: 15px;
@@ -4876,7 +4876,7 @@ header {
 	}
 	/*06.2.02 Macbook Animation*/
 	.lec_macbook {
-		background: url(../images/macbook2.png);
+		background: url(macbook2.png);
 		-webkit-background-size: cover;
 		background-size: cover;
 		width: 600px;
@@ -4923,7 +4923,7 @@ header {
 		position: absolute;
 		display: block;
 		content: '';
-		background:url(../images/lec_desktop.png);
+		background:url(lec_desktop.png);
 		width: 100%;
 		height: 32px;
 		z-index: 2;
@@ -4935,7 +4935,7 @@ header {
 		position: absolute;
 		display: block;
 		content: '';
-		background:url(../images/lec_mobile_header.png);
+		background:url(lec_mobile_header.png);
 		width: 100%;
 		height: 42px;
 		z-index: 2;
@@ -4947,7 +4947,7 @@ header {
 		position: absolute;
 		display: block;
 		content: '';
-		background:url(../images/lec_tablet_header.png);
+		background:url(lec_tablet_header.png);
 		width: 100%;
 		height: 41px;
 		z-index: 2;
@@ -5367,7 +5367,7 @@ footer a {
 	width: 50px;
 	height: 50px;
 	display: block;
-	background: url(../images/badge_mini.png);
+	background: url(badge_mini.png);
 	-webkit-background-size: cover;
 	background-size: cover;
 	padding: 18px 17px;
@@ -6087,7 +6087,7 @@ footer a {
 		position: absolute;
 		top: 150px;
 		left: 0;
-		background: url(../images/badge.png);
+		background: url(badge.png);
 		-webkit-background-size: cover;
 		background-size: cover;
 		width: 80px;
