@@ -2895,7 +2895,7 @@ header {
 		width: 50px;
 		height: 50px;
 		display: block;
-		background: url(../images/badge_mini.png);
+		background: url(badge_mini.png);
 		-webkit-background-size: cover;
 		background-size: cover;
 		-webkit-transition: all 0.3s;
@@ -2930,7 +2930,7 @@ header {
 		width: 50px;
 		height: 50px;
 		display: block;
-		background: url(../images/badge_mini.png);
+		background: url(badge_mini.png);
 		-webkit-background-size: cover;
 		background-size: cover;
 		-webkit-transition: all 0.3s;
@@ -2982,7 +2982,7 @@ header {
 		color: #fff;
 	}
 .owl-dot span {
-	background: url(../images/badge_mini.png);
+	background: url(badge_mini.png);
 	width: 15px;
 	height: 15px;
 	display: inline-block;
@@ -3420,7 +3420,7 @@ header {
 /*Fire Color*/
 .lec_page_fire .lec_gold span,
 .retina .lec_page_fire .lec_gold span {
-	background-image: url(../images/selima_fire_wh.png);
+	background-image: url(selima_fire_wh.png);
 	-webkit-background-size: 2160px 163px;
 	background-size: 2160px 163px;
 }
