@@ -6,6 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>RAJKUMAR</title>
 <link rel="shortcut icon" href="favicon.jpg"  />
+		<link rel="stylesheet" type="text/css" href="style2.css">
+
 <!-- Library CSS -->
 <link href="lecker_library.css" rel="stylesheet">
 
@@ -19,7 +21,8 @@
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Bree+Serif|Lato" rel="stylesheet">
 </head>
-<body class="lec_france">
+<body onload="myFunction()" class="lec_france">
+<div id="loading"></div>
 
 <!-- Page -->
 <div class="lec_page lec_page_fire" id="lec_page"> 
@@ -216,6 +219,13 @@
 <!-- Page End --> 
 
 <!-- JQuery --> 
+<script>
+		
+		var preloader = document.getElementById("loading");
+		function myFunction(){
+			preloader.style.display = 'none';
+		}
+	</script>
 <script src="jquery-1.12.4.min.js"></script> 
 <!-- Library JS --> 
 <script src="lecker_library.js"></script> 
