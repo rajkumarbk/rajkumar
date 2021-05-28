@@ -3298,7 +3298,7 @@ header {
 }
 .jqueryFireFly {
 	border-radius: 50%!important;
-	background-image: url(../images/gold_foil.png)!important;
+	background-image: url(gold_foil.png)!important;
 	box-shadow:0 0 10px #fff;
 }
 	.retina .jqueryFireFly {
@@ -3964,7 +3964,7 @@ header {
 	display: block;
 	position: absolute;
 	content: '';
-	background-image: url(gold_foil2.png);
+	background-image: url(gold_foil.png);
 	-webkit-background-size: 40px 64px;
 	background-size: 40px 64px;
 	width: 15px;
@@ -3983,7 +3983,7 @@ header {
 	display: block;
 	position: absolute;
 	content: '';
-	background-image: url(gold_foil2.png);
+	background-image: url(gold_foil.png);
 	-webkit-background-size: 40px 64px;
 	background-size: 40px 64px;
 	width: 15px;
@@ -3994,7 +3994,7 @@ header {
 	display: block;
 	position: absolute;
 	content: '';
-	background-image: url(gold_foil2.png);
+	background-image: url(gold_foil.png);
 	-webkit-background-size: 40px 64px;
 	background-size: 40px 64px;
 	width: 15px;
